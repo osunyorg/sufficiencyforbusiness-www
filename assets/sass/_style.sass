@@ -1,0 +1,20 @@
+h1
+    color: $color-accent
+#document-header
+    .logo
+        margin-left: -25px
+        @include media-breakpoint-up(desktop)
+            margin-left: -40px
+footer#document-footer
+    .footer-site
+        display: none
+    @include media-breakpoint-up(desktop)
+        .container
+            justify-content: center
+        .footer-legals
+            .footer-credit,
+            .nav-legal li,
+            .nav-legal 
+                display: inline-block
+            .nav-legal li
+                margin-right: $spacing-3
