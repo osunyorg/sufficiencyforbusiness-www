@@ -2,7 +2,7 @@
 
 en:
   title: >-
-    Sufficiency for business network
+    Sufficiency for Business Network
   contentDir: content/en
   languageCode: en
   languageName: English
@@ -11,6 +11,9 @@ en:
     contact_details:
 
   permalinks:
+    events: /agenda/:year/:slug/
+    exhibitions: /exhibitions/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     pages_categories: /:slug/
     posts: /posts/:year-:month-:day-:slug/
     posts_categories: /posts/:slug/
