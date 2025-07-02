@@ -1,13 +1,13 @@
 ---
 title: Legal
 items:
-- title: Accessibility
-  target: "/accessibility/"
+- title: Legal terms
+  target: "/legal-terms/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/accessibility"
-  file: content/en/pages/accessibility/_index.html
+  path: "/pages/legal-terms"
+  file: content/en/pages/legal-terms/_index.html
 - title: Privacy policy
   target: "/privacy-policy/"
   kind: page
@@ -22,11 +22,11 @@ items:
   children: []
   path: "/pages/sitemap"
   file: content/en/pages/sitemap/_index.html
-- title: Legal terms
-  target: "/legal-terms/"
+- title: Accessibility
+  target: "/accessibility/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/legal-terms"
-  file: content/en/pages/legal-terms/_index.html
+  path: "/pages/accessibility"
+  file: content/en/pages/accessibility/_index.html
 
