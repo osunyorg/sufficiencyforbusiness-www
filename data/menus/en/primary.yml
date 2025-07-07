@@ -1,6 +1,13 @@
 ---
 title: Main menu
 items:
+- title: Team
+  target: "/team/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/en/persons/_index.html
 - title: Posts
   target: "/posts/"
   kind: page
@@ -29,11 +36,4 @@ items:
   children: []
   path: "/exhibitions"
   file: content/en/exhibitions/_index.html
-- title: Team
-  target: "/team/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/persons"
-  file: content/en/persons/_index.html
 
