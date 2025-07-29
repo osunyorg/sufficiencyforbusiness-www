@@ -36,4 +36,18 @@ items:
   children: []
   path: "/exhibitions"
   file: content/en/exhibitions/_index.html
+- title: Presentations
+  target: "/presentations/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/presentations"
+  file: content/en/pages/presentations/_index.html
+- title: Who we are
+  target: "/who-we-are/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/who-we-are"
+  file: content/en/pages/who-we-are/_index.html
 
