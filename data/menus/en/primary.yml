@@ -5,7 +5,14 @@ items:
   target: "/who-we-are/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Members
+    target: "/members/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/persons"
+    file: content/en/persons/_index.html
   path: "/pages/who-we-are"
   file: content/en/pages/who-we-are/_index.html
 - title: What we do
@@ -15,20 +22,13 @@ items:
   children: []
   path: "/pages/what-we-do"
   file: content/en/pages/what-we-do/_index.html
-- title: Team
-  target: "/team/"
+- title: Resources
+  target: "/resources/"
   kind: page
   new_tab: false
   children: []
-  path: "/persons"
-  file: content/en/persons/_index.html
-- title: Posts
-  target: "/posts/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/en/posts/_index.html
+  path: "/pages/resources"
+  file: content/en/pages/resources/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
@@ -36,25 +36,11 @@ items:
   children: []
   path: "/events"
   file: content/en/events/_index.html
-- title: Exhibitions
-  target: "/exhibitions/"
+- title: Get in touch
+  target: "/get-in-touch/"
   kind: page
   new_tab: false
   children: []
-  path: "/exhibitions"
-  file: content/en/exhibitions/_index.html
-- title: Presentations
-  target: "/presentations/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/presentations"
-  file: content/en/pages/presentations/_index.html
-- title: Brand guidelines
-  target: "/brand-guidelines/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/brand-guidelines"
-  file: content/en/pages/brand-guidelines/_index.html
+  path: "/pages/get-in-touch"
+  file: content/en/pages/get-in-touch/_index.html
 
