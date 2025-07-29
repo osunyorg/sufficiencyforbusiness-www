@@ -8,13 +8,6 @@ items:
   children: []
   path: "/pages/legal-terms"
   file: content/en/pages/legal-terms/_index.html
-- title: Privacy policy
-  target: "/privacy-policy/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/privacy-policy"
-  file: content/en/pages/privacy-policy/_index.html
 - title: Sitemap
   target: "/sitemap/"
   kind: page
@@ -29,4 +22,11 @@ items:
   children: []
   path: "/pages/accessibility"
   file: content/en/pages/accessibility/_index.html
+- title: Brand guidelines
+  target: "/brand-guidelines/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/brand-guidelines"
+  file: content/en/pages/brand-guidelines/_index.html
 
