@@ -6,6 +6,13 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: History & purpose
+    target: "/history-purpose/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/history-purpose"
+    file: content/en/pages/history-purpose/_index.html
   - title: Members
     target: "/members/"
     kind: page
