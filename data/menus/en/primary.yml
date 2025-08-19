@@ -44,10 +44,10 @@ items:
   path: "/events"
   file: content/en/events/_index.html
 - title: Get in touch
-  target: "/get-in-touch/"
+  target: "/contact/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/get-in-touch"
-  file: content/en/pages/get-in-touch/_index.html
+  path: "/pages/contact"
+  file: content/en/pages/contact/_index.html
 
