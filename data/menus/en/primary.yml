@@ -2,7 +2,7 @@
 title: Main menu
 items:
 - title: Who we are
-  target: "/who-we-are/"
+  target: "/overview/"
   kind: page
   new_tab: false
   children:
@@ -20,8 +20,8 @@ items:
     children: []
     path: "/persons"
     file: content/en/persons/_index.html
-  path: "/pages/who-we-are"
-  file: content/en/pages/who-we-are/_index.html
+  path: "/pages/overview"
+  file: content/en/pages/overview/_index.html
 - title: What we do
   target: "/what-we-do/"
   kind: page
