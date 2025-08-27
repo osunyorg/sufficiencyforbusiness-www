@@ -2,26 +2,26 @@
 title: Main menu
 items:
 - title: Who we are
-  target: "/overview/"
+  target: "/who-we-are/overview/"
   kind: page
   new_tab: false
   children:
   - title: Overview
-    target: "/overview/"
+    target: "/who-we-are/overview/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/overview"
-    file: content/en/pages/overview/_index.html
+    path: "/pages/who-we-are/overview"
+    file: content/en/pages/who-we-are/overview/_index.html
   - title: Members
-    target: "/members/"
+    target: "/who-we-are/members/"
     kind: page
     new_tab: false
     children: []
     path: "/persons"
     file: content/en/persons/_index.html
-  path: "/pages/overview"
-  file: content/en/pages/overview/_index.html
+  path: "/pages/who-we-are/overview"
+  file: content/en/pages/who-we-are/overview/_index.html
 - title: What we do
   target: "/what-we-do/"
   kind: page
