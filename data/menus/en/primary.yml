@@ -5,21 +5,7 @@ items:
   target: "/who-we-are/overview/"
   kind: page
   new_tab: false
-  children:
-  - title: Overview
-    target: "/who-we-are/overview/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/who-we-are/overview"
-    file: content/en/pages/who-we-are/overview/_index.html
-  - title: Members
-    target: "/who-we-are/members/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/persons"
-    file: content/en/persons/_index.html
+  children: []
   path: "/pages/who-we-are/overview"
   file: content/en/pages/who-we-are/overview/_index.html
 - title: What we do
