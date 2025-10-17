@@ -22,11 +22,4 @@ items:
   children: []
   path: "/pages/accessibility"
   file: content/en/pages/accessibility/_index.html
-- title: Brand guidelines
-  target: "/brand-guidelines/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/brand-guidelines"
-  file: content/en/pages/brand-guidelines/_index.html
 
