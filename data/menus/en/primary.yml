@@ -2,38 +2,48 @@
 title: Main menu
 items:
 - title: Who we are
+  slug: who-we-are
   target: "/who-we-are/overview/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/who-we-are/overview"
   file: content/en/pages/who-we-are/overview/_index.html
 - title: What we do
+  slug: what-we-do
   target: "/what-we-do/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/what-we-do"
   file: content/en/pages/what-we-do/_index.html
 - title: Resources
+  slug: resources
   target: "/resources/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/resources"
   file: content/en/pages/resources/_index.html
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/en/events/_index.html
 - title: Get in touch
+  slug: get-in-touch
   target: "/contact/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
 
