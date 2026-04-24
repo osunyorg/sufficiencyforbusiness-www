@@ -15,226 +15,226 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/who-we-are/manuel-suter/index.html"
+from = "/who-we-are/manuel-suter/"
 to = "/who-we-are/members/manuel-suter/"
 
 [[redirects]]
-from = "/who-we-are/javier-galan-cubillo/index.html"
+from = "/who-we-are/javier-galan-cubillo/"
 to = "/who-we-are/members/javier-galan-cubillo/"
 
 [[redirects]]
-from = "/members/julia-bruckner/index.html"
+from = "/members/julia-bruckner/"
 to = "/who-we-are/members/julia-bruckner/"
 
 [[redirects]]
-from = "/team/index.html"
+from = "/team/"
 to = "/who-we-are/members/"
 
 [[redirects]]
-from = "/members/maike-grossen/index.html"
+from = "/members/maike-grossen/"
 to = "/who-we-are/members/maike-grossen/"
 
 [[redirects]]
-from = "/who-we-are/lotte-levelt/index.html"
+from = "/who-we-are/lotte-levelt/"
 to = "/who-we-are/members/lotte-levelt/"
 
 [[redirects]]
-from = "/history-purpose/index.html"
+from = "/history-purpose/"
 to = "/who-we-are/overview/"
 
 [[redirects]]
-from = "/members/editors/index.html"
+from = "/members/editors/"
 to = "/who-we-are/members/editors/"
 
 [[redirects]]
-from = "/who-we-are/lisa-sophie-welsleben/index.html"
+from = "/who-we-are/lisa-sophie-welsleben/"
 to = "/who-we-are/members/lisa-sophie-welsleben/"
 
 [[redirects]]
-from = "/who-we-are/editors/index.html"
+from = "/who-we-are/editors/"
 to = "/who-we-are/members/editors/"
 
 [[redirects]]
-from = "/who-we-are/jessica-jungell-michelsson/index.html"
+from = "/who-we-are/jessica-jungell-michelsson/"
 to = "/who-we-are/members/jessica-jungell-michelsson/"
 
 [[redirects]]
-from = "/who-we-are/christian-gnepke/index.html"
+from = "/who-we-are/christian-gnepke/"
 to = "/who-we-are/members/christian-gnepke/"
 
 [[redirects]]
-from = "/who-we-are/anna-burch/index.html"
+from = "/who-we-are/anna-burch/"
 to = "/who-we-are/members/anna-burch/"
 
 [[redirects]]
-from = "/overview/index.html"
+from = "/overview/"
 to = "/who-we-are/overview/"
 
 [[redirects]]
-from = "/who-we-are/isaac-ortega-alvarado/index.html"
+from = "/who-we-are/isaac-ortega-alvarado/"
 to = "/who-we-are/members/isaac-ortega-alvarado/"
 
 [[redirects]]
-from = "/who-we-are/katrin-pakizer/index.html"
+from = "/who-we-are/katrin-pakizer/"
 to = "/who-we-are/members/katrin-pakizer/"
 
 [[redirects]]
-from = "/who-we-are/marie-julie-de-bruyne/index.html"
+from = "/who-we-are/marie-julie-de-bruyne/"
 to = "/who-we-are/members/marie-julie-de-bruyne/"
 
 [[redirects]]
-from = "/agenda/2026/monthly-network-webinar-2-march-1/index.html"
+from = "/agenda/2026/monthly-network-webinar-2-march-1/"
 to = "/agenda/2026/monthly-network-webinar-april-2026/"
 
 [[redirects]]
-from = "/who-we-are/carys-egan-wyer/index.html"
+from = "/who-we-are/carys-egan-wyer/"
 to = "/who-we-are/members/carys-egan-wyer/"
 
 [[redirects]]
-from = "/agenda/2026/monthly-network-webinar-9-feb-1/index.html"
+from = "/agenda/2026/monthly-network-webinar-9-feb-1/"
 to = "/agenda/2026/monthly-network-webinar-2-march/"
 
 [[redirects]]
-from = "/who-we-are/adina-arth/index.html"
+from = "/who-we-are/adina-arth/"
 to = "/who-we-are/members/adina-arth/"
 
 [[redirects]]
-from = "/who-we-are/isabel-pacheco/index.html"
+from = "/who-we-are/isabel-pacheco/"
 to = "/who-we-are/members/isabel-pacheco/"
 
 [[redirects]]
-from = "/agenda/2025/monthly-network-webinar-sept-25-1/index.html"
+from = "/agenda/2025/monthly-network-webinar-sept-25-1/"
 to = "/agenda/2025/monthly-network-webinar-25-oct/"
 
 [[redirects]]
-from = "/who-we-are/maike-grossen/index.html"
+from = "/who-we-are/maike-grossen/"
 to = "/who-we-are/members/maike-grossen/"
 
 [[redirects]]
-from = "/who-we-are/benjamin-combes/index.html"
+from = "/who-we-are/benjamin-combes/"
 to = "/who-we-are/members/benjamin-combes/"
 
 [[redirects]]
-from = "/who-we-are/jean-philippe-decka/index.html"
+from = "/who-we-are/jean-philippe-decka/"
 to = "/who-we-are/members/jean-philippe-decka/"
 
 [[redirects]]
-from = "/who-we-are/fanny-dethier/index.html"
+from = "/who-we-are/fanny-dethier/"
 to = "/who-we-are/members/fanny-dethier/"
 
 [[redirects]]
-from = "/members/benjamin-combes/index.html"
+from = "/members/benjamin-combes/"
 to = "/who-we-are/members/benjamin-combes/"
 
 [[redirects]]
-from = "/who-we-are/manon-villers/index.html"
+from = "/who-we-are/manon-villers/"
 to = "/who-we-are/members/manon-villers/"
 
 [[redirects]]
-from = "/get-in-touch/index.html"
+from = "/get-in-touch/"
 to = "/contact/"
 
 [[redirects]]
-from = "/who-we-are/nicholas-owen/index.html"
+from = "/who-we-are/nicholas-owen/"
 to = "/who-we-are/members/nicholas-owen/"
 
 [[redirects]]
-from = "/who-we-are/leonard-creutzburg/index.html"
+from = "/who-we-are/leonard-creutzburg/"
 to = "/who-we-are/members/leonard-creutzburg/"
 
 [[redirects]]
-from = "/agenda/2025/monthly-network-webinar/index.html"
+from = "/agenda/2025/monthly-network-webinar/"
 to = "/agenda/2025/monthly-network-webinar-sept-25/"
 
 [[redirects]]
-from = "/who-we-are/laura-beyeler/index.html"
+from = "/who-we-are/laura-beyeler/"
 to = "/who-we-are/members/laura-beyeler/"
 
 [[redirects]]
-from = "/members/index.html"
+from = "/members/"
 to = "/who-we-are/members/"
 
 [[redirects]]
-from = "/who-we-are/indra-da-silva-wagner/index.html"
+from = "/who-we-are/indra-da-silva-wagner/"
 to = "/who-we-are/members/indra-da-silva-wagner/"
 
 [[redirects]]
-from = "/who-we-are/tobias-froese/index.html"
+from = "/who-we-are/tobias-froese/"
 to = "/who-we-are/members/tobias-froese/"
 
 [[redirects]]
-from = "/agenda/2025/monthly-network-webinar-sept-25-1-1/index.html"
+from = "/agenda/2025/monthly-network-webinar-sept-25-1-1/"
 to = "/agenda/2025/monthly-network-webinar-25-nov/"
 
 [[redirects]]
-from = "/who-we-are/valentin-sagvosdkin/index.html"
+from = "/who-we-are/valentin-sagvosdkin/"
 to = "/who-we-are/members/valentin-sagvosdkin/"
 
 [[redirects]]
-from = "/who-we-are/iana-nesterova/index.html"
+from = "/who-we-are/iana-nesterova/"
 to = "/who-we-are/members/iana-nesterova/"
 
 [[redirects]]
-from = "/who-we-are/cedric-gossart/index.html"
+from = "/who-we-are/cedric-gossart/"
 to = "/who-we-are/members/cedric-gossart/"
 
 [[redirects]]
-from = "/who-we-are/johannes-matschewsky/index.html"
+from = "/who-we-are/johannes-matschewsky/"
 to = "/who-we-are/members/johannes-matschewsky/"
 
 [[redirects]]
-from = "/members/marie-julie-de-bruyne/index.html"
+from = "/members/marie-julie-de-bruyne/"
 to = "/who-we-are/members/marie-julie-de-bruyne/"
 
 [[redirects]]
-from = "/who-we-are/maren-kropfeld/index.html"
+from = "/who-we-are/maren-kropfeld/"
 to = "/who-we-are/members/maren-kropfeld/"
 
 [[redirects]]
-from = "/who-we-are/tobias-vogel/index.html"
+from = "/who-we-are/tobias-vogel/"
 to = "/who-we-are/members/tobias-vogel/"
 
 [[redirects]]
-from = "/members/laura-niessen/index.html"
+from = "/members/laura-niessen/"
 to = "/who-we-are/members/laura-niessen/"
 
 [[redirects]]
-from = "/who-we-are/julia-bruckner/index.html"
+from = "/who-we-are/julia-bruckner/"
 to = "/who-we-are/members/julia-bruckner/"
 
 [[redirects]]
-from = "/who-we-are/oksana-mont/index.html"
+from = "/who-we-are/oksana-mont/"
 to = "/who-we-are/members/oksana-mont/"
 
 [[redirects]]
-from = "/who-we-are/lucy-chamberlin/index.html"
+from = "/who-we-are/lucy-chamberlin/"
 to = "/who-we-are/members/lucy-chamberlin/"
 
 [[redirects]]
-from = "/who-we-are/noah-labinaz/index.html"
+from = "/who-we-are/noah-labinaz/"
 to = "/who-we-are/members/noah-labinaz/"
 
 [[redirects]]
-from = "/who-we-are/theo-visbecq/index.html"
+from = "/who-we-are/theo-visbecq/"
 to = "/who-we-are/members/theo-visbecq/"
 
 [[redirects]]
-from = "/agenda/2025/monthly-network-webinar-25-dec-1/index.html"
+from = "/agenda/2025/monthly-network-webinar-25-dec-1/"
 to = "/agenda/2026/monthly-network-webinar-9-feb/"
 
 [[redirects]]
-from = "/who-we-are/josefine-henman/index.html"
+from = "/who-we-are/josefine-henman/"
 to = "/who-we-are/members/josefine-henman/"
 
 [[redirects]]
-from = "/who-we-are/fernanda-godoy-leon/index.html"
+from = "/who-we-are/fernanda-godoy-leon/"
 to = "/who-we-are/members/fernanda-godoy-leon/"
 
 [[redirects]]
-from = "/who-we-are/laura-niessen/index.html"
+from = "/who-we-are/laura-niessen/"
 to = "/who-we-are/members/laura-niessen/"
 
 [[redirects]]
-from = "/team/editors/index.html"
+from = "/team/editors/"
 to = "/who-we-are/members/editors/"
 
