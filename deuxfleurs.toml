@@ -67,6 +67,10 @@ from = "/who-we-are/anna-burch/index.html"
 to = "/who-we-are/members/anna-burch/"
 
 [[redirects]]
+from = "/agenda/2026/monthly-network-webinar-april-2026-1/index.html"
+to = "/agenda/2026/monthly-network-webinar-may-2026/"
+
+[[redirects]]
 from = "/overview/index.html"
 to = "/who-we-are/overview/"
 
