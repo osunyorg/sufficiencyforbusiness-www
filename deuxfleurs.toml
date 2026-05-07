@@ -19,6 +19,10 @@ from = "/who-we-are/manuel-suter/index.html"
 to = "/who-we-are/members/manuel-suter/"
 
 [[redirects]]
+from = "/agenda/2026/monthly-network-webinar-may-2026-1/index.html"
+to = "/agenda/2026/monthly-network-webinar-september-2026/"
+
+[[redirects]]
 from = "/who-we-are/javier-galan-cubillo/index.html"
 to = "/who-we-are/members/javier-galan-cubillo/"
 
