@@ -3,13 +3,13 @@ title: Main menu
 items:
 - title: Who we are
   slug: who-we-are
-  target: "/who-we-are/overview/"
+  target: "/who-we-are/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/who-we-are/overview"
-  file: content/en/pages/who-we-are/overview/_index.html
+  path: "/pages/who-we-are"
+  file: content/en/pages/who-we-are/_index.html
 - title: What we do
   slug: what-we-do
   target: "/what-we-do/"
