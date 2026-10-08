@@ -131,6 +131,10 @@ from = "/who-we-are/fanny-dethier/index.html"
 to = "/who-we-are/members/fanny-dethier/"
 
 [[redirects]]
+from = "/agenda/2026/monthly-network-webinar-october-2026-1/index.html"
+to = "/agenda/2026/monthly-network-webinar-december-2026/"
+
+[[redirects]]
 from = "/members/benjamin-combes/index.html"
 to = "/who-we-are/members/benjamin-combes/"
 

@@ -143,6 +143,57 @@ contents:
       quantity: 3
 
 
+  - kind: block
+    template: agenda
+    title: >-
+      Upcoming events
+    slug: >-
+      upcoming-events
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Upcoming events
+        heading: 2
+        link: "/agenda/"
+
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
+
+      layout: list
+
+
+      title_link: "/agenda/"
+      events:
+        - permalink: "/agenda/2026/monthly-network-webinar-november-2026/"
+          path: "/events/2026/11/02-monthly-network-webinar-november-2026"
+          slug: "monthly-network-webinar-november-2026"
+          file: "content/en/events/2026/11/02-monthly-network-webinar-november-2026.html"
+          name: >-
+            Monthly network webinar - November 2026
+        - permalink: "/agenda/2026/monthly-network-webinar-december-2026/"
+          path: "/events/2026/12/07-monthly-network-webinar-december-2026"
+          slug: "monthly-network-webinar-december-2026"
+          file: "content/en/events/2026/12/07-monthly-network-webinar-december-2026.html"
+          name: >-
+            Monthly network webinar - December 2026
+
+      quantity: 2
 
 
 ---
