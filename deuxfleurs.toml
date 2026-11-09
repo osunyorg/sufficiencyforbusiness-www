@@ -36,7 +36,7 @@ to = "/who-we-are/members/"
 
 [[redirects]]
 from = "/members/maike-grossen/index.html"
-to = "/who-we-are/members/maike-grossen/"
+to = "/who-we-are/members/maike-gossen/"
 
 [[redirects]]
 from = "/who-we-are/lotte-levelt/index.html"
@@ -116,7 +116,7 @@ to = "/agenda/2025/monthly-network-webinar-25-oct/"
 
 [[redirects]]
 from = "/who-we-are/maike-grossen/index.html"
-to = "/who-we-are/members/maike-grossen/"
+to = "/who-we-are/members/maike-gossen/"
 
 [[redirects]]
 from = "/who-we-are/benjamin-combes/index.html"
@@ -165,6 +165,10 @@ to = "/who-we-are/members/laura-beyeler/"
 [[redirects]]
 from = "/members/index.html"
 to = "/who-we-are/members/"
+
+[[redirects]]
+from = "/who-we-are/members/maike-grossen/index.html"
+to = "/who-we-are/members/maike-gossen/"
 
 [[redirects]]
 from = "/who-we-are/indra-da-silva-wagner/index.html"
